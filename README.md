@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deni <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Deni;"></a></h1>
 <h3 align="center">A passionate Python and Backend (and a beginner machine learning) developer from Indonesia</h3>
 
 - 🔭 I’m currently working on my **Bangkit 2023 Program**
