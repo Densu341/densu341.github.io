@@ -1,5 +1,5 @@
 <h1 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h2 align="left">Howdy <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Deni Irawan</h2>
+<h2 align="center">Howdy <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> , I'm Deni Irawan</h2>
 <h3 align="center">A passionate Python and Backend (and a beginner machine learning) developer from Indonesia</h3>
 
 - 🔭 I’m currently working on my **Bangkit 2023 Program**
