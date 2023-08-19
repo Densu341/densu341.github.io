@@ -27,13 +27,22 @@
       <div class="container">
         <div class="relative flex items-center justify-between">
           <div class="px-4">
-            <a href="#home" class="block py-6"
-              ><img
+            <a href="#home" class="block py-6">
+              <img
                 src="dist/img/logo.svg"
-                alt=""
-                class="w-40 rounded-br-xl rounded-tl-xl bg-dark dark:bg-opacity-100"
-            /></a>
+                alt="Logo"
+                class="hidden dark:block"
+                width="150px"
+              />
+              <img
+                src="/dist/img/logo-light.svg"
+                alt="Logo"
+                class="block dark:hidden"
+                width="150px"
+              />
+            </a>
           </div>
+
           <div class="flex items-center px-4">
             <button
               id="hamburger"
